@@ -1,5 +1,5 @@
-# Experiment investigating the effects of temporal variability on perceptual decision-making and reaction times (2016)
-*Author: David Greatrex, PhD Candidate, University of Cambridge.  
+# Experiment investigating the effects of temporal variability on reaction times during perceptual decision-making (2016)
+*Author: David Greatrex, PhD, University of Cambridge.  
 *Date: 18/08/2016 -- Language: MATLAB. -- Modifications:
 
 ## Summary:
