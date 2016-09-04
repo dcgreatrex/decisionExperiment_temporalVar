@@ -15,7 +15,7 @@ Clone the respository to a local folder and set MATLABs current directory to the
 Enter 'temporal_variability' into the MATLAB terminal to start the experiment.
 
 ## Experimental overview:
-Previous experiments in the timing literature have shown that decision latencies during complex averaging decisions are sensitive to temporal variance in the structure of an acoustic stimulus (Greatrex 2015, 2016). It remains unknown whether this sensitivity was the result of cognitive processes specific to complex choice, or motor preparation in general. This is an important distinction to make as it will determine whether or not rhythmic variability should be incorporated into models of complex choice.
+Previous experiments in the timing literature have shown that decision latency during complex averaging decisions are sensitive to temporal variance in the structure of an acoustic stimulus (Greatrex 2015, 2016). It remains unknown whether this sensitivity was the result of cognitive processes specific to complex choice, or motor preparation in general. This is an important distinction to make as it will determine whether or not rhythmic variability should be incorporated into models of complex choice.
 
 The current experiment tests whether speeded reaction times to the onset of a probe tone are sensitive to IOI variance in a precursor rhythmic sequence. As this is a simple task and does not require higher-order judgement, it allows for the distinction between complex choice and motor preparation to be made. If reaction times are sensitive, then the previous findings reported by Greatrex (2016, 2016) are likely to have been caused by processes separate from complex decision-making.
 
