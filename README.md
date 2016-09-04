@@ -11,7 +11,7 @@ MATLAB (MathWorks) - the program was build in version R2015b.
 Psychtoolbox3 (http://psychtoolbox.org/) - version 3.0.13 - Flavor: beta - Corresponds to SVN Revision 8038.
 
 ## Installation:
-Clone the responsitory to a local folder and set MATLABs current directory to the selected folder.
+Clone the respository to a local folder and set MATLABs current directory to the selected folder.
 Enter 'temporal_variability' into the MATLAB terminal to start the experiment.
 
 ## Experimental overview:
