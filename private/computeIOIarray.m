@@ -31,7 +31,7 @@ function IOIarray = computeIOIarray(rhythmicVar, nTarget, periodicIOI)
 try 
     % setup exclusion sampling range
     excludeWindow = 0.025;                  % IOI resampling limit
-    IOIrange = periodicIOI * 0.6;           % 0.6 for 250 IOI -- 0.7 for 333 IOI
+    IOIrange = periodicIOI * 0.5;           % jitter
 
     % generate IOI array
     if rhythmicVar == 1                   
@@ -47,7 +47,7 @@ try
                 
                 while true
                     
-                    t = periodicIOI.*rand(1,1) + IOIrange;    % random number between periodicIOI ± IOIrange
+                    t = periodic_IOI + IOI_range * ( 2 * rand(1,1) - 1 );    % random number between periodicIOI ± IOIrange
                     
                     if tMinus1 ~= 0
 
